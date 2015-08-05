@@ -46,3 +46,6 @@ Two additional workarounds are needed to make that version work:
 ## About
 
 Written by [Sébastien Pujadas](http://pujadas.net), released under the [MIT license](http://opensource.org/licenses/MIT).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metadevfoundation/flarum-docker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
